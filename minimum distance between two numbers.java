@@ -118,3 +118,10 @@ class MinimumDistance
 				+ " is " + min.minDist(arr, n, x, y));
 	}
 }
+
+/*
+Time Complexity: O(n). 
+Only one traversal of the array is needed.
+Space Complexity: O(1). 
+As no extra space is required.
+*/
